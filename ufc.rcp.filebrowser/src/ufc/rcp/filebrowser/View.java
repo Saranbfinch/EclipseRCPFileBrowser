@@ -17,7 +17,6 @@ import org.eclipse.ui.part.ViewPart;
 public class View extends ViewPart {
 
 	public static final String ID = "ufc.rcp.filebrowser.view";
-
 	
 	/**
 	 * The text control that's displaying the content of the email message.
